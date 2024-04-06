@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "638888979976",
+    "project_id": "avinyaapp",
+    "storage_bucket": "avinyaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638888979976:android:41a866a607aee8884f6bbd",
+        "android_client_info": {
+          "package_name": "com.esparse.avinya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638888979976-od0ak3rp93berjtbe1f567ov4fshvbie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.esparse.avinya",
+            "certificate_hash": "c65e25e634fdfac8758b2163b7a14cd0073ef5f8"
+          }
+        },
+        {
+          "client_id": "638888979976-cf9elv7j8klq0kkf84v2m3ukmg66ami3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdGXrQ2yF-mmtS-dFtCAMxJAkQE5qSWZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638888979976-cf9elv7j8klq0kkf84v2m3ukmg66ami3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "638888979976-m0t2a83a5sg83qqr7g52ch1paeo9kk8i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.esparse.avinya"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
